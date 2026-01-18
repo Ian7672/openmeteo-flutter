@@ -22,8 +22,7 @@ A modern, responsive Flutter application providing real-time weather information
 The application icon is sourced from:
 [Cloudy Icon - Flaticon](https://www.flaticon.com/free-icon/cloudy_1146869?term=weather&page=1&position=16&origin=search&related_id=1146869)
 
-### [Insert Icon Here]
-*(Place the weather icon image here)*
+<img src="https://raw.githubusercontent.com/Ian7672/openmeteo-flutter/main/assets/icon/icon.png" width="128" alt="FadeTail Icon">
 
 ## How to Run
 
